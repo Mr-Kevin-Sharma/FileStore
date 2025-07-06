@@ -79,7 +79,35 @@
 - [x] Custom Start Message With Picture And Buttons
 </b>
 </details>
-
+## Commands
+/start - start the bot or get posts
+/batch - create link for more than one posts
+/genlink - create link for one post
+/users - view bot statistics
+/broadcast - broadcast any messages to bot users
+/dbroadcast - broadcast any messages with auto delete.
+/stats - checking your bot uptime
+/start - start the bot or get posts  
+/batch - create link for more than one posts  
+/custom_batch - create custom batch from channel/group  
+/genlink - create link for one post  
+/users - view bot statistics  
+/broadcast - broadcast any messages to bot users  
+/dbroadcast - broadcast any messages with auto delete  
+/stats - check your bot uptime  
+/dlt_time - set auto delete time for files  
+/check_dlt_time - check current delete time setting  
+/ban - ban a user from using the bot  
+/unban - unban a previously banned user  
+/banlist - get list of banned users  
+/addchnl - add a channel for force subscription  
+/delchnl - remove a force subscribe channel  
+/listchnl - view all added force subscribe channels  
+/fsub_mode - toggle force subscribe on or off  
+/pbroadcast - pin a broadcast to all user's chat 
+/add_admin - add a new admin  
+/deladmin - remove an admin  
+/admins - list all current admins
 ## Environment Variables
 
 <b><details><summary>Tap On Me For Environment Variable</summary>
