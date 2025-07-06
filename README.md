@@ -1,150 +1,177 @@
-━━━━━━━━━━━━━━━━━━━━
-
-<h2 align="center">
-    ──「 ғɪʟᴇ sᴛᴏʀᴇ ᴘʀᴏ 」──
-</h2>
-
 <p align="center">
-  <img src="https://files.catbox.moe/aa8f8e.jpg">
+  <img src="https://files.catbox.moe/aa8f8e.jpg" alt="VJ-FILE-STORE-BOT Logo">
+</p>
+<h1 align="center">
+  KEVIN FILE STORE BOT
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+KEVIN-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
 </p>
 
+### JOIN MY GC (https://t.me/+SlWFjGjhE2UwMGY9)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+CODEFLIX+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
-</p>
+## Features
 
- ━━━━━━━━━━━━━━━━━
-
-
-
-<details><summary><b>ғᴇᴀᴛᴜʀᴇs:</b></summary>
-
-• <b>Batch & Custom Batch Links:</b> Create links for one or multiple posts easily using <code>/batch</code> & <code>/custom_batch</code>  
-• <b>Link Generator:</b> Instantly generate direct links with <code>/genlink</code>  
-• <b>Broadcast Tools:</b> Send messages or media to all users using <code>/broadcast</code>, <code>/dbroadcast</code>, or <code>/pbroadcast</code>  
-• <b>Auto File Deletion:</b> Control auto-delete with <code>/dlt_time</code> & <code>/check_dlt_time</code>  
-• <b>User Management:</b> Ban/unban users and view banlist via <code>/ban</code>, <code>/unban</code>, and <code>/banlist</code>  
-• <b>Multi Force Subscription:</b> Add, delete, and manage multiple Force Sub channels with <code>/addchnl</code>, <code>/delchnl</code>, <code>/listchnl</code>  
-• <b>Admin Control:</b> Add or remove admins with <code>/add_admin</code>, <code>/deladmin</code>, and view list via <code>/admins</code>  
-
-• <b>Bot Analytics:</b> Get stats and uptime via <code>/stats</code>, user info with <code>/users</code>, and database count via <code>/count</code>  
-• <b>Deployment Ready:</b> Easily deploy on <b>Heroku</b> or <b>Koyeb</b> in minutes  
-
-<b>✨ More features & enhancements coming soon...</b>
-</details>
-
-
-<details><summary><b> ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
-  
-## ᴠᴀʀɪᴀʙʟᴇs
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
-* `DATABASE_URL` Your mongo db url
-* `DATABASE_NAME` Your mongo db session name
-* `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codeflix-bots/filestore/blob/master/README.md#start_message'>fillings</a>
-* `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
-</details>
-
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
-
-```
-/start - start the bot or get posts
-/batch - create link for more than one posts
-/genlink - create link for one post
-/users - view bot statistics
-/broadcast - broadcast any messages to bot users
-/dbroadcast - broadcast any messages with auto delete.
-/stats - checking your bot uptime
-/start - start the bot or get posts  
-/batch - create link for more than one posts  
-/custom_batch - create custom batch from channel/group  
-/genlink - create link for one post  
-/users - view bot statistics  
-/broadcast - broadcast any messages to bot users  
-/dbroadcast - broadcast any messages with auto delete  
-/stats - check your bot uptime  
-/dlt_time - set auto delete time for files  
-/check_dlt_time - check current delete time setting  
-/ban - ban a user from using the bot  
-/unban - unban a previously banned user  
-/banlist - get list of banned users  
-/addchnl - add a channel for force subscription  
-/delchnl - remove a force subscribe channel  
-/listchnl - view all added force subscribe channels  
-/fsub_mode - toggle force subscribe on or off  
-/pbroadcast - pin a broadcast to all user's chat 
-/add_admin - add a new admin  
-/deladmin - remove an admin  
-/admins - list all current admins  
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3>「 ᴏᴛʜᴇʀ ʙʀᴀɴᴄʜᴇs 」
-</h3>
-
-- <b>[ᴛᴏᴋᴇɴ](https://github.com/Codeflix-Bots/FileStore/tree/token)  ➻  [sʜᴏʀᴛɴᴇʀ](https://github.com/Codeflix-Bots/FileStore/tree/Shortner) </b>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<details>
-<summary><h3>
-- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
-</h3></summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/FileStore">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Codeflix-Bots/FileStore&branch=master&name=master">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Codeflix-Bots/FileStore">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Codeflix-Bots/FileStore">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
-</h3>
-<p>
-<pre>
-git clone https://github.com/Codeflix-Bots/FileStore
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
-<h3>「 ᴄʀᴇᴅɪᴛs 」
-</h3>
-
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/codeflix_bots) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
-- <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
+<b><details><summary>Tap On Me For Bot Features</summary>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+- [x] Permanent Link By Using Website [ Premium Feature] 
+- [x] Clone Feature Added [ Premium Feature] 
+- [x] Token Verification Feature 
+- [x] Stram Feature Added With Many Player Support
+- [x] Custom Url Shortner Support Any User Can Add His Own Shortner
+- [x] Batch Support Added, Any User Can Use Batch By Making Bot Admin In His File Store Channel
+- [x] Auto Delete Feature Added
+- [x] Custom Start Message With Picture And Buttons
+</b>
+</details>
 
-## 📌  𝑵𝒐𝒕𝒆
+## Environment Variables
 
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+<b><details><summary>Tap On Me For Environment Variable</summary>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- API_ID : Get From [my.telegram.org](https://my.telegram.org)
+- API_HASH : Get From [my.telegram.org](https://my.telegram.org)
+- BOT_TOKEN : Get From [BotFather](https://telegram.me/BotFather)
+- BOT_USERNAME : Your Bot Username Without @
+- DB_URI : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- CLONE_DB_URI : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- ADMINS : It mean Admin/Owner Id For Broadcasting Message.
+- LOG_CHANNEL : Log channel id start with -100xxxxxx
+- URL : Your Server App Link With https:// and in last make sure one / is given.
+- AUTO_DELETE : Time In Minutes
+- AUTO_DELETE_TIME : Time In Seconds
+- PYTHON_VERSION : This Variable Is Only For Render, Value IS 3.10.8
+- PORT : This Variable Is Only For Render, Value IS 8080
+</b>
+</details>
+
+## See How Bot Look Like
+
+<b><details><summary>Tap On Me For Demo Bot</summary></b>
+
+<img src="https://graph.org/file/bb9c59043c52072e8dc93.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/295e41dfab93acf42a111.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/ccc1b6ab4967a7d155ab8.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/75db5257c39436b734b49.jpg" alt="Bot Demo">
+<img src="https://graph.or<p align="center">
+  <img src="https://files.catbox.moe/aa8f8e.jpg" alt="VJ-FILE-STORE-BOT Logo">
+</p>
+<h1 align="center">
+  KEVIN FILE STORE BOT
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+KEVIN-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
+</p>
+
+### JOIN MY GC (https://t.me/+SlWFjGjhE2UwMGY9)
+
+## Features
+
+<b><details><summary>Tap On Me For Bot Features</summary>
+ 
+- [x] Permanent Link By Using Website [ Premium Feature] 
+- [x] Clone Feature Added [ Premium Feature] 
+- [x] Token Verification Feature 
+- [x] Stram Feature Added With Many Player Support
+- [x] Custom Url Shortner Support Any User Can Add His Own Shortner
+- [x] Batch Support Added, Any User Can Use Batch By Making Bot Admin In His File Store Channel
+- [x] Auto Delete Feature Added
+- [x] Custom Start Message With Picture And Buttons
+</b>
+</details>
+
+## Environment Variables
+
+<b><details><summary>Tap On Me For Environment Variable</summary>
+
+- API_ID : Get From [my.telegram.org](https://my.telegram.org)
+- API_HASH : Get From [my.telegram.org](https://my.telegram.org)
+- BOT_TOKEN : Get From [BotFather](https://telegram.me/BotFather)
+- BOT_USERNAME : Your Bot Username Without @
+- DB_URI : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- CLONE_DB_URI : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- ADMINS : It mean Admin/Owner Id For Broadcasting Message.
+- LOG_CHANNEL : Log channel id start with -100xxxxxx
+- URL : Your Server App Link With https:// and in last make sure one / is given.
+- AUTO_DELETE : Time In Minutes
+- AUTO_DELETE_TIME : Time In Seconds
+- PYTHON_VERSION : This Variable Is Only For Render, Value IS 3.10.8
+- PORT : This Variable Is Only For Render, Value IS 8080
+</b>
+</details>
+
+## See How Bot Look Like
+
+<b><details><summary>Tap On Me For Demo Bot</summary></b>
+
+<img src="https://graph.org/file/bb9c59043c52072e8dc93.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/295e41dfab93acf42a111.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/ccc1b6ab4967a7d155ab8.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/75db5257c39436b734b49.jpg" alt="Bot Demo">
+<img src="https://graph.org/file/1ce62a17012ed5723aaca.jpg" alt="Bot Demo">
+</details>
+
+## Command To Use Bot
+
+<b><details><summary>Tap On Me For Bot Commands</summary>
+
+🖍 Main Bot Commands :-
+g/file/1ce62a17012ed5723aaca.jpg" alt="Bot Demo">
+</details>
+
+## Command To Use Bot
+
+<b><details><summary>Tap On Me For Bot Commands</summary>
+
+🖍 Main Bot Commands :-
+
+- /start : By This Command You Can Check Bot Is Alive Or Not
+- /link : By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
+- /batch : By This Command You Can Generate Multiple File Shareable Link At A Time [Use Like This /batch (first post link) (last post link)]
+- /base_site : By This Command You Can Set Your Url Shortner Domain [Use Like This /base_site domain.com]
+- /api : By This Command You Can Set Your Url Shortner Api [Use Like This /api (your api key)]
+- /deletecloned : By This Command You Can Delete Your Cloned Bot [Use Like This /deletecloned (your bot token)]
+- /broadcast : By Using This Command You Can Broadcast A Message To Your Bot User, Reply This Command To Broadcast Message [Owner Only Command]
+
+🖍 Clone Bot Commands :- 
+
+- /start : By This Command You Can Check Bot Is Alive Or Not
+- /link : By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
+- /base_site : By This Command You Can Set Your Url Shortner Domain [Use Like This /base_site domain.com]
+- /api : By This Command You Can Set Your Url Shortner Api [Use Like This /api (your api key)]
+- /broadcast : By Using This Command You Can Broadcast A Message To Your Bot User, Reply This Command To Broadcast Message [Clone Bot Owner Only Command]
+
+</b>
+</details>
+
+## Credit
+
+<b><details><summary>Tap On Me For See Credit</summary>
+
+💝 Credit Goes To [MR KEVIN ](https://t.me/+cQ8XqmrPSYZkYWU1)
+
+🖍 This Code Is Fully Written Or Coded And Public By [MR KEVIN ](https://t.me/+cQ8XqmrPSYZkYWU1) So Don't Forgot To Give Credit
+
+💖 And Thank You So Much To All Who Help In This Journey 💕
+
+Copyright © [MR KEVIN](https://t.me/+cQ8XqmrPSYZkYWU1)
+
+</b>
+</details>
+
+## About Owner 
+
+<b><details><summary>Tap On Me For See Details Of Owner</summary>
+
+
+- Telegram Channel : [MR KEVIN](https://t.me/+cQ8XqmrPSYZkYWU1)
+- Contact Link : [MR KEVIN](https://t.me/Mr_kevin_dm_bot)
+- Instagram Id Link : [MR KEVIN](https://www.instagram.com/yuji_itadori_ga?igsh=MWlrbXk4MjczYjE0Mg==)
+
+</b>
+</details>
+
+
+### Copyright © [MR KEVIN](https://t.me/+cQ8XqmrPSYZkYWU1)
+
+<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
